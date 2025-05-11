@@ -1,3 +1,9 @@
+This project helps understand the following areas:
+
+- how to build a nextjs app from scratch.
+- INs and OUTs of server and client components.
+- App Router, creating api routes, fetching data, data mutation with Server actions and authentication with an identity provider such as Auth0
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
